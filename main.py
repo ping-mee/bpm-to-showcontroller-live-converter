@@ -20,7 +20,7 @@ def convert(event=None):
 
 # Create UI
 root = tk.Tk()
-root.title("BPM to Showcontroller Live calculator")
+root.title("BPM to Live calculator")
 root.geometry("300x150")
 
 frame = ttk.Frame(root, padding=10)
